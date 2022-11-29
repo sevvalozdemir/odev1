@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int isaretBul(int x);
-int main(void) {
+int main() {
   int sayi;
   printf("Bir sayi girin:");
   scanf("%d", &sayi);
