@@ -1,7 +1,7 @@
-double sayi(double s1, double s2);
+double toplam(double s1, double s2);
 int main()
 {
-    double sonuc = sayi(12.3, 6.4);
+    double sonuc = toplam(12.3, 6.4);
     printf("%lf", sonuc);
     return 0;
 }
